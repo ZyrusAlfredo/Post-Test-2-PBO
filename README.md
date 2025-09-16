@@ -13,7 +13,7 @@ Dengan program ini, diharapkan pengguna dapat lebih mudah mengorganisir aktivita
 -----------------------------------------------------------------------------------------------------------
 
 **1. Fitur**\
-· Program mampu melakukan operasi lihat jadwal, tambah jadwal, edit jadwal, hapus jadwal, dan cari jadwal.\
+· Program mampu melakukan operasi lihat jadwal, tambah jadwal, edit jadwal, hapus jadwal, dan cari jadwal.
 · Program dapat mengelola dan menyimpan informasi seperti, kegiatan, hari, tanggal, dan skala prioritas.
 
 **2. MVC (Model, View, Control)**\
