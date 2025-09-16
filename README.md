@@ -30,7 +30,7 @@ Dengan program ini, diharapkan pengguna dapat lebih mudah mengorganisir aktivita
 
 **4. Access Modifier & Properties**\
 · Menggunakan access modifier private untuk properti class beserta getter dan setter.\
-· Terdapat 5 properties yaitu: ID, kegiatan, hari, tanggal, dan skala prioritas.\
+· Terdapat 5 properties yaitu: ID, kegiatan, hari, tanggal, dan skala prioritas.
 
 **5. Validasi input**\
 Pada program ini terdapat validasi input (Error Handling) seperti akan muncul keterangan, jika tidak sesuai.\
