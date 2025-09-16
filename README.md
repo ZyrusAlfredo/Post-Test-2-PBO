@@ -37,7 +37,7 @@ Pada program ini terdapat validasi input (Error Handling) seperti akan muncul ke
 <img width="1229" height="742" alt="Screenshot 2025-09-16 201350" src="https://github.com/user-attachments/assets/c0a556ae-a0bd-47d8-b496-fcacecd715f1" />\
 <img width="1209" height="402" alt="Screenshot 2025-09-16 201506" src="https://github.com/user-attachments/assets/0b060685-86ba-48cd-99bb-2b4714280504" />
 
-
+-----------------------------------------------------------------------------------------------------------
 
 # Alur Program
 Terdapat 6 pilihan menu, yaitu:
